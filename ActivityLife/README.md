@@ -145,9 +145,9 @@ public class MainActivity extends AppCompatActivity {
 
 **验证结果：**
 
-![TIM图片20190324195859](C:\Users\王道长\Pictures\TIM图片20190324195859.png)
+![TIM图片20190324195859](C:\Users\王道长\Pictures\ActivityLife1.png)
 
-![TIM图片20190324200405](C:\Users\王道长\Pictures\TIM图片20190324200405.png)
+![TIM图片20190324200405](C:\Users\王道长\Pictures\ActivityLife2.png)
 
 
 
