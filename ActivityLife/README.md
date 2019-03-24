@@ -145,9 +145,9 @@ public class MainActivity extends AppCompatActivity {
 
 **验证结果：**
 
-![TIM图片20190324195859](C:\Users\王道长\Pictures\ActivityLife1.png)
+![TIM图片20190324195859](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/NohPNQyULB3FOeMvXzqI1HHfLPidIo3X37ZNmViWnwE!/b/dL4AAAAAAAAA&bo=UwdFAVMHRQEDCSw!&rf=viewer_4)
 
-![TIM图片20190324200405](C:\Users\王道长\Pictures\ActivityLife2.png)
+![TIM图片20190324200405](http://b36.photo.store.qq.com/psb?/V13zmT7A05rvTZ/F5aCSsIOVDOzlDcgh7Mx4DqTlMdoeXQeQufZt04ohxI!/b/dCQAAAAAAAAA&bo=UgdDAQAAAAADGSs!&rf=viewer_4)
 
 
 
