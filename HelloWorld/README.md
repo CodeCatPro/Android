@@ -290,7 +290,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 以上属性需要另一个控件的`id`或`parent`（父容器）作为参数。
 
-![relativepositioning2](E:\AndroidStudioProjects\HelloWorld\picture\relativepositioning2.png)
+![relativepositioning2](https://github.com/CodeCatPro/Android/tree/master/HelloWorld/picture/relativepositioning2.png)
 
 
 
