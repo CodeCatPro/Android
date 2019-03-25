@@ -253,7 +253,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 **运行结果截图**
 
-![linearlayout](E:\AndroidStudioProjects\HelloWorld\picture\linearlayout.png)
+![linearlayout](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/FKlXAoYJt3rO*ToJGckp3tK2FO8MOUFYkfvIgPRmKj4!/b/dL8AAAAAAAAA&bo=ywE0A8sBNAMDCSw!&rf=viewer_4)
 
 
 
@@ -268,7 +268,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 *  水平轴：`Left、Right、Start、End`
 * 垂直轴：`top、bottom、text baseline`
 
-![relativepositioning](E:\AndroidStudioProjects\HelloWorld\picture\relativepositioning1.png)
+![relativepositioning](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/Rohr6XYVuBpb3xmK8sl33piXPrc6WR8TYWNNLfu6yaw!/b/dDUBAAAAAAAA&bo=dQLHAHUCxwADCSw!&rf=viewer_4)
 
 
 
@@ -290,7 +290,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 以上属性需要另一个控件的`id`或`parent`（父容器）作为参数。
 
-![relativepositioning2](https://github.com/CodeCatPro/Android/tree/master/HelloWorld/picture/relativepositioning2.png)
+![relativepositioning2](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/pZ04XkaovH5JDd*xMPmdpunGZpCurEXtgpLJEB0vg14!/b/dL8AAAAAAAAA&bo=XgIlAV4CJQEDCSw!&rf=viewer_4)
 
 
 
@@ -298,7 +298,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 **作用：**设置`target`控件与`source`控件的边距。 
 
-![margin](E:\AndroidStudioProjects\HelloWorld\picture\margin.png)
+![margin](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/Cek0gLQlwXLxQNKu8A.LpyZslkSl.wcnbAejDRJPvJY!/b/dL8AAAAAAAAA&bo=QwLFAEMCxQADCSw!&rf=viewer_4)
 
 | 序号 |              属性               |
 | :--: | :-----------------------------: |
@@ -318,7 +318,7 @@ app:layout_constraintLeft_toLeftOf="parent"
 app:layout_constraintRight_toRightOf="parent"
 ```
 
-![centerpositioning](E:\AndroidStudioProjects\HelloWorld\picture\centerpositioning.png)
+![centerpositioning](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/u1Wm1EAtbt3Whyp30himt8itkKR47RhLqSKIU8Hknj4!/b/dDABAAAAAAAA&bo=8wGgAPMBoAADCSw!&rf=viewer_4)
 
 这种情况下，约束的作用类似于相反的力牵引控件并均分边距。而控件最终会在父容器中处于居中位置。垂直约束雷同。
 
@@ -335,7 +335,7 @@ app:layout_constraintRight_toRightOf="parent"
 
 **示例：**设置左侧边距为30％代替默认的50％，如图： 
 
-![bias](E:\AndroidStudioProjects\HelloWorld\picture\bias.png)
+![bias](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/7TbN4BfbUvg3X1v7rWSv66g9zxd4jRWiRdjboRGSVYw!/b/dFMBAAAAAAAA&bo=DAKdAAwCnQADCSw!&rf=viewer_4)
 
 ```java
 <android.support.constraint.ConstraintLayout ...>
@@ -446,7 +446,7 @@ app:layout_constraintRight_toRightOf="parent"
 
 **运行结果截图**
 
-![constraintlayout](E:\AndroidStudioProjects\HelloWorld\picture\constraintlayout.png)
+![constraintlayout](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/a0KOT9kpZ*thoRHLJs9VpQakNpWv3iqXN62QET5JKBs!/b/dLkAAAAAAAAA&bo=UwFeAlMBXgIDCSw!&rf=viewer_4)
 
 
 
@@ -587,7 +587,7 @@ app:layout_constraintRight_toRightOf="parent"
 
 **运行结果截图**
 
-![tablelayout](E:\AndroidStudioProjects\HelloWorld\picture\tablelayout.png)
+![tablelayout](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/XfAm7TIbyW2EqJzQZ.3mm*AQ1AumJCzwYwMDju7y1Us!/b/dLkAAAAAAAAA&bo=UwFeAlMBXgIDCSw!&rf=viewer_4)
 
 
 
