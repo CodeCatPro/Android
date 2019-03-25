@@ -86,7 +86,7 @@ protected void onRestart(){
 
 ### 二、Activity生命周期图
 
-![点击查看源网页](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1553436913370&di=af9617545decb7bc650fc8258de58695&imgtype=0&src=http%3A%2F%2Fs13.sinaimg.cn%2Fmw690%2Fb639be08gd5ba3f540eac%26690)
+![点击查看源网页](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/a93Ztr39WKRJjQsmGSn0beUJ2Y2Gu*R6KjS8WRB0L5Q!/b/dLgAAAAAAAAA&bo=IQLGAiECxgIRCT4!&rf=viewer_4)
 
 
 
@@ -153,6 +153,6 @@ public class MainActivity extends AppCompatActivity {
 
 ### 四、验证过程出现问题及解决方法
 
-**问题：**发现```log.i("MainActivityLife","调用onCreate()");```飘红。
+**问题：** 发现```log.i("MainActivityLife","调用onCreate()");```飘红。
 
-**解决方法：**导入对应包，即```import android.util.Log;```,并且方法首字母一定要大写。
+**解决方法：** 导入对应包，即```import android.util.Log;```,并且方法首字母一定要大写。
