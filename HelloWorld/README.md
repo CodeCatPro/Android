@@ -261,7 +261,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 **相对位置Relative positioning**
 
-**作用：**设置控件与另一个控件的相对位置。 
+**作用：** 设置控件与另一个控件的相对位置。 
 
 **可在水平轴与垂直轴约束控件：**
 
@@ -296,7 +296,7 @@ match_parent:填充父窗体由父容器大小决定控件大小。
 
 **边距 Margins**
 
-**作用：**设置`target`控件与`source`控件的边距。 
+**作用：** 设置`target`控件与`source`控件的边距。 
 
 ![margin](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/Cek0gLQlwXLxQNKu8A.LpyZslkSl.wcnbAejDRJPvJY!/b/dL8AAAAAAAAA&bo=QwLFAEMCxQADCSw!&rf=viewer_4)
 
@@ -333,7 +333,7 @@ app:layout_constraintRight_toRightOf="parent"
 |  1   | **layout_constraintHorizontal_bias** |
 |  2   |  **layout_constraintVertical_bias**  |
 
-**示例：**设置左侧边距为30％代替默认的50％，如图： 
+**示例：** 设置左侧边距为30％代替默认的50％，如图： 
 
 ![bias](http://m.qpic.cn/psb?/V13zmT7A05rvTZ/7TbN4BfbUvg3X1v7rWSv66g9zxd4jRWiRdjboRGSVYw!/b/dFMBAAAAAAAA&bo=DAKdAAwCnQADCSw!&rf=viewer_4)
 
