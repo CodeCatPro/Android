@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/RED"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="RED"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/redtextview"/>
+
+    <TextView
+        android:id="@+id/ORANGE"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="ORANGE"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/orangetextview"/>
+
+    <TextView
+        android:id="@+id/YELLOW"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:text="YELLOW"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/yellowtextview"/>
+
+    <TextView
+        android:id="@+id/BLUE"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="BLUE"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ORANGE"
+        android:background="@drawable/bluetextview"/>
+
+    <TextView
+        android:id="@+id/GREEN"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="GREEN"
+        app:layout_constraintBaseline_toBaselineOf="@+id/BLUE"
+        app:layout_constraintRight_toLeftOf="@+id/BLUE"
+        android:background="@drawable/greentextview"/>
+
+    <TextView
+        android:id="@+id/INDIGO"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:gravity="center"
+        android:text="INDIGO"
+        app:layout_constraintBaseline_toBaselineOf="@+id/BLUE"
+        app:layout_constraintLeft_toRightOf="@+id/BLUE"
+        android:background="@drawable/indigotextview"/>
+
+    <TextView
+        android:id="@+id/VIOLET"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="VIOLET"
+        android:textAllCaps="false"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/BLUE"
+        android:background="@drawable/violettextview"/>
+</android.support.constraint.ConstraintLayout>
