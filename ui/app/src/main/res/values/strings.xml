@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">小新の页面</string>
+    <string name="file_menu">•••</string>
+    <string name="font_size">字体大小</string>
+    <string name="menu_item">普通菜单项</string>
+    <string name="font_color">字体颜色</string>
+</resources>

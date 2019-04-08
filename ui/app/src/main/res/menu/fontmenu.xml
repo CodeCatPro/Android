@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        tools:ignore="AppCompatResource"
+        android:id="@+id/font_menu"
+        app:showAsAction="always"
+        android:title="@string/file_menu">
+        <menu>
+            <item
+                android:id="@+id/font_size"
+                app:showAsAction="withText"
+                android:title="@string/font_size">
+                <menu>
+                    <item
+                        android:id="@+id/small"
+                        app:showAsAction="withText"
+                        android:title="小号"/>
+                    <item
+                        android:id="@+id/middle"
+                        app:showAsAction="withText"
+                        android:title="中号"/>
+                    <item
+                        android:id="@+id/large"
+                        app:showAsAction="withText"
+                        android:title="大号"/>
+                </menu>
+            </item>
+            <item android:id="@+id/menu_item"
+                app:showAsAction="withText"
+                android:title="@string/menu_item">
+            </item>
+            <item android:id="@+id/font_color"
+                app:showAsAction="withText"
+                android:title="@string/font_color">
+                <menu>
+                    <item
+                        android:id="@+id/black"
+                        app:showAsAction="withText"
+                        android:title="黑色"/>
+                    <item
+                        android:id="@+id/red"
+                        app:showAsAction="withText"
+                        android:title="红色"/>
+                </menu>
+            </item>
+        </menu>
+    </item>
+</menu>
