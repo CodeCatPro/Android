@@ -1,0 +1,4 @@
+#Sun May 05 17:39:16 CST 2019
+base.0=E\:\\AndroidStudioProjects\\test5_Intent-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
