@@ -18,7 +18,7 @@
     </PreferenceCategory>
 
 
-![CheckBoxPreference 效果图](https://github.com/Huanglei666/PreferenceTest/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/CheckboxPreference.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_1.png?raw=true)
 
 **EditTextPreference**
 
@@ -31,7 +31,7 @@
             android:summary="An example that uses an edit text dialog"
             android:dialogTitle="Enter your favorite animal" />
 
-![EditTextPreference 效果图](https://github.com/CodeCatPro/Preference/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_2.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_2.png?raw=true)
 
 **ListPreference**
 
@@ -48,7 +48,7 @@
             android:entryValues="@array/choices_items"
             android:defaultValue="1" />
 
-![ListPreference 效果图](https://github.com/Huanglei666/PreferenceTest/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_3.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_3.png?raw=true)
 
 **PreferenceScreen-CheckBox**
 
@@ -68,7 +68,7 @@
     
         </PreferenceScreen>
 
-![PreferenceScreen-CheckBox 效果图](https://github.com/Huanglei666/PreferenceTest/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_4.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_4.png?raw=true)
 
 **PreferenceScreen-Intent**
 
@@ -88,7 +88,7 @@
     
         </PreferenceScreen>
 
-![PreferenceScreen-Intent 效果图](https://github.com/Huanglei666/PreferenceTest/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_5.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_5.png?raw=true)
 
 ps:因为模拟器DNS一直配置不好，所以域名解析错误导致无法显示页面。
 
@@ -112,7 +112,7 @@ ps:因为模拟器DNS一直配置不好，所以域名解析错误导致无法�
             android:defaultValue="false"
             android:dependency="pref_sync1"/>
 
-![Parent-Child-CheckBox-Preference 效果图](https://github.com/Huanglei666/PreferenceTest/blob/master/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_6.png)
+![](https://github.com/CodeCatPro/Android/blob/master/Preference/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE/4_6.png?raw=true)
 
 **Preference 调用**
 
